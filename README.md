@@ -1,6 +1,7 @@
 ## Data Warehouse and Analytics Project
 This repository walks through a complete data warehousing and analytics pipeline ,from the ground up. It is built as a portfolio project to demonstrate real-world data engineering standards and practices.
 
+Project Plan and Tasks: https://www.notion.so/Data-Warehouse-Project-32da269eada180bea946c2afca04b83a?source=copy_link
 ---
 
 ## Data Architecture
